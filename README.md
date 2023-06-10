@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-#i m anuj
-
-
-
+#i m Anuj Kumar
 
 - 🔭 I’m currently working on MACHINE LEARNING AND DATA SCIENCE.
 - 🌱 I’m currently learning DATA SCIENCE.
