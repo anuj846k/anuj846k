@@ -3,7 +3,7 @@
 #i m Anuj Kumar
 
 - 🔭 I’m currently working on web devlopment
-- 🌱 I’m currently learning DATA SCIENCE.
+- 🌱 I’m currently learning web apps.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
