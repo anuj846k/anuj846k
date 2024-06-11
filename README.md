@@ -15,6 +15,9 @@
 - 📫 How to reach me **anuj846k@gmail.com**
 
 - ⚡ Fun fact **I like to focus more on work than enjoying with aimless people.That's not a fun fact I know😂**
+- ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@anuj846k70317/30-nites-of-code)  
+  ![@anuj846k70317 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuj846k70317)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
