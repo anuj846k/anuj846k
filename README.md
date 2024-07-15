@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./headerX.png)
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
 <h3 align="center">I'm a passionate web developer interested in creating awesome web applications</h3>
 <img alt ="Coding" align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmUwbW8xc2pkNjRuYmU5dXRpb2Z1MThhbzM5aHgxamYwMTVna3MzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
