@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Node js fundamentals**
 
-- 🌱 I’m currently learning **React.js and Next.js, along with a bit of backend development using Node.js and Express**
+- 🌱 I’m currently learning : **React.js and Next.js, along with a bit of backend development using Node.js and Express**
 
-- 💬 Ask me about **React js,MERN**
+- 💬 Ask me about : **React js,MERN**
 
-- 📫 How to reach me **anuj846k@gmail.com**
+- 📫 How to reach me : **anuj846k@gmail.com**
 
-- ⚡ Fun fact **I thrive in focused, goal-oriented environments and am driven by meaningful, impactful work.**
+- ⚡ Fun fact: **I thrive in focused, goal-oriented environments and am driven by meaningful, impactful work.**
 - ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@anuj846k70317/30-nites-of-code)  
   ![@anuj846k70317 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuj846k70317)
