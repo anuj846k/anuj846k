@@ -1,12 +1,12 @@
 ![Header](./headerX.png)
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">I'm a passionate web developer interested in creating awesome web applications</h3>
+<h1 align="center" style="font-size: 48px;">Hi 👋, I'm Anuj Kumar</h1>
+<h3 align="center" style="font-size: 36px;">I'm a passionate web developer interested in creating awesome web applications</h3>
 <img alt ="Coding" align="right" width="400" src="./coding.gif"/>
 <p align="left"> <img margin-top="10 px" src="https://komarev.com/ghpvc/?username=anuj846k&label=Profile%20views&color=0e75b6&style=flat" alt="anuj846k" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anuj846kk" target="blank"><img src="https://img.shields.io/twitter/follow/anuj846kk?logo=twitter&style=for-the-badge" alt="anuj846kk" /></a> </p>
 
-- 🔭 I’m currently working on **CINEVERSE GPT (TMDB MOVIES API)**
+- 🔭 I’m currently working on **Node js fundamentals**
 
 - 🌱 I’m currently learning **React.js and Next.js, along with a bit of backend development using Node.js and Express**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anuj846k@gmail.com**
 
-- ⚡ Fun fact **I like to focus more on work than enjoying with aimless people.That's not a fun fact I know😂**
+- ⚡ Fun fact **I thrive in focused, goal-oriented environments and am driven by meaningful, impactful work.**
 - ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@anuj846k70317/30-nites-of-code)  
   ![@anuj846k70317 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuj846k70317)
