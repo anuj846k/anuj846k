@@ -15,6 +15,7 @@
 - 📫 How to reach me : **anuj846k@gmail.com**
 
 - ⚡ Fun fact : **I thrive in focused, goal-oriented environments and am driven by meaningful, impactful work.**
+
 - ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@anuj846k70317/30-nites-of-code)  
   ![@anuj846k70317 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuj846k70317)
