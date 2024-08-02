@@ -1,7 +1,7 @@
 ![Header](./headerX.png)
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
 <h3 align="center">I'm a passionate web developer interested in creating awesome web applications</h3>
-<img alt ="Coding" align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmUwbW8xc2pkNjRuYmU5dXRpb2Z1MThhbzM5aHgxamYwMTVna3MzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img alt ="Coding" align="right" width="400" src="./coding.gif"/>
 <p align="left"> <img margin-top="10 px" src="https://komarev.com/ghpvc/?username=anuj846k&label=Profile%20views&color=0e75b6&style=flat" alt="anuj846k" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anuj846kk" target="blank"><img src="https://img.shields.io/twitter/follow/anuj846kk?logo=twitter&style=for-the-badge" alt="anuj846kk" /></a> </p>
