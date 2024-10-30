@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuj846kk" target="blank"><img src="https://img.shields.io/twitter/follow/anuj846kk?logo=twitter&style=for-the-badge" alt="anuj846kk" /></a> </p>
 
-- 🔭 I’m currently working on **Node js fundamentals and Dockerization**
+- 🔭 I’m currently working on **Truewallet which is a full stack payment website using Mern stack**
 
 - 🌱 I’m currently learning : **Next.js, along with a bit of backend development using Node.js and Express**
 
