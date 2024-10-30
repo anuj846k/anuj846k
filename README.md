@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/anuj846kk" target="blank"><img src="https://img.shields.io/twitter/follow/anuj846kk?logo=twitter&style=for-the-badge" alt="anuj846kk" /></a> </p>
 
-- 🔭 I’m currently working on **Node js fundamentals**
+- 🔭 I’m currently working on **Node js fundamentals and Dockerization**
 
-- 🌱 I’m currently learning : **React.js and Next.js, along with a bit of backend development using Node.js and Express**
+- 🌱 I’m currently learning : **Next.js, along with a bit of backend development using Node.js and Express**
 
-- 💬 Ask me about : **React js,MERN**
+- 💬 Ask me about : **ReactJs,Supabase,Nextjs,Nodejs,API**
 
 - 📫 How to reach me : **anuj846k@gmail.com**
 
