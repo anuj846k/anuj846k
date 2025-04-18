@@ -1,6 +1,6 @@
 ![Header](./headerX.png)
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center" style="font-size: 46px;">I'm a passionate web developer interested in creating awesome web applications</h3>
+<h3 align="center" style="font-size: 46px;">I'm a passionate web developer and App developer interested in creating awesome applications</h3>
 <img alt ="Coding" align="right" width="400" src="./coding.gif"/>
 <p align="left"> <img margin-top="10 px" src="https://komarev.com/ghpvc/?username=anuj846k&label=Profile%20views&color=0e75b6&style=flat" alt="anuj846k" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning : **Next.js, along with a bit of backend development using Node.js and Express**
 
-- 💬 Ask me about : **ReactJs,Supabase,Nextjs,Nodejs,API**
+- 💬 Ask me about : **ReactJs,Supabase,Nextjs,Nodejs,API,ReactNative**
 
 - 📫 How to reach me : **anuj846k@gmail.com**
 
