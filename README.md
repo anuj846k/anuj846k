@@ -1,4 +1,4 @@
-![Header](./headerX.png)
+![Header](./pp.png)
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Anuj Kumar</h1>
 <h3 align="center" style="font-size: 46px;">I'm a passionate web developer and app developer interested in creating awesome applications</h3>
 <img alt ="Coding" align="right" width="400" src="./coding.gif"/>
