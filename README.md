@@ -1,16 +1,16 @@
 ![Header](./pp.png)
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
+<h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">Full Stack Developer — I build and ship production systems for real users</h3>
 <img alt="Coding" align="right" width="400" src="./coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj846k&label=Profile%20views&color=0e75b6&style=flat" alt="anuj846k" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anuj846kk" target="blank"><img src="https://img.shields.io/twitter/follow/anuj846kk?logo=twitter&style=for-the-badge" alt="anuj846kk" /></a> </p>
 
-- 🔭 Currently freelancing, building production systems for real clients
+- 🔭 Currently freelancing, and building scalocx.com a customer experience product to get feedbacks from different platforms
 - 🛠️ Built a trekking platform with role-based dashboards, OTP auth, and a CMS for non-technical users
 - 🤖 Interned at Propview.ai, built AI agents using the Agno framework for real estate property discovery
 - 🏆 Won Hackfrost 2024, built an automated ML monitoring pipeline with data drift detection and auto-retraining
-- 2nd Place at Codedex Holiday Hackathon, built a retro full-stack developer blogging platform
+- 🏆2nd Place at Codedex Holiday Hackathon, built a retro full-stack blogging platform
 - 💬 Ask me about: React, Next.js, Node.js, TypeScript, PostgreSQL, Prisma, React Native, AWS
 - 📫 Reach me at: anuj846k@gmail.com
 
